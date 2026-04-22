@@ -5,6 +5,7 @@ Data Repository for barangay package
 
 | date | link | name |
 |---|---|---|
+| 2026-04-13 | https://psa.gov.ph/classification/psgc/node/1684083211 | First Quarter 2026 PSGC Updates: Merging of Two Barangays, and Correction of the Names of One Municipality and Seven Barangays |
 | 2026-01-13 | https://psa.gov.ph/classification/psgc/node/1684082306 | Fourth Quarter 2025 PSGC Updates: Correction of the Names of Three Barangays |
 | 2025-10-13 | https://psa.gov.ph/classification/psgc/node/1684080966 | Third Quarter 2025 PSGC Updates: Correction of the Names of Two Barangays |
 | 2025-08-29 | https://psa.gov.ph/classification/psgc/node/1684078573 | The Province of Sulu Officially Transferred to Region IX (Zamboanga Peninsula) |
@@ -20,23 +21,4 @@ Data Repository for barangay package
 | 2023-08-15 | https://psa.gov.ph/classification/psgc/node/1684060569 | Second Quarter 2023 PSGC Updates: Correction of the Names of One Municipality and 35 Barangays\ |
 | 2023-04-18 | https://psa.gov.ph/classification/psgc/node/176698 | First Quarter 2023 PSGC Updates: Six New Barangays and Correction of the Names of One Municipality and Four Barangays |
 | 2023-01-25 | https://psa.gov.ph/classification/psgc/node/168704 | Fourth Quarter 2022 PSGC Updates: Conversion to a New City, Merging of 28 Barangays, Renaming of a Barangay, and Correction of the Names of 19 Barangays |
-
-## PSGC Updates
-
-| date | link | name |
-|---|---|---|
-| 2026-01-13 | https://psa.gov.ph/classification/psgc/node/1684082306 | Fourth Quarter 2025 PSGC Updates: Correction of the Names of Three Barangays |
-| 2025-10-13 | https://psa.gov.ph/classification/psgc/node/1684080966 | Third Quarter 2025 PSGC Updates: Correction of the Names of Two Barangays |
-| 2025-08-29 | https://psa.gov.ph/classification/psgc/node/1684078573 | The Province of Sulu Officially Transferred to Region IX (Zamboanga Peninsula) |
-| 2025-07-08 | https://psa.gov.ph/classification/psgc/node/1684077694 | Second Quarter 2025 PSGC Updates: Correction of the Names of Three Barangays |
-| 2025-04-23 | https://psa.gov.ph/classification/psgc/node/1684076101 | First Quarter 2025 PSGC Updates: Correction of the Names of One Municipality and Six Barangays |
-| 2025-01-30 | https://psa.gov.ph/classification/psgc/node/1684066655 | Fourth Quarter 2024 PSGC Updates: Correction of the Names of Three Barangays |
-| 2024-10-18 | https://psa.gov.ph/classification/psgc/node/1684065214 | Third Quarter 2024 PSGC Updates: Creation of Two Barangays, Division of One Barangay into Six Independent Barangays, and Correction of the Names of Four Barangays |
-| 2024-07-12 | https://psa.gov.ph/classification/psgc/node/1684064747 | Second Quarter 2024 PSGC Updates: Creation of the Negros Island Region and Correction of the Names of Two Barangays |
-| 2025-05-08 | https://psa.gov.ph/classification/psgc/node/1684063552 | Eight New Municipalities in the Bangsamoro Autonomous Region in Muslim Mindanao |
-| 2024-04-23 | https://psa.gov.ph/classification/psgc/node/1684063392 | First Quarter 2024 PSGC Updates: Three New Barangays, Transferring of One Barangay, and Correction of the Names of 20 Barangays |
-| 2024-01-23 | https://psa.gov.ph/classification/psgc/node/1684061953 | No Change in the Fourth Quarter 2023 PSGC |
-| 2023-10-24 | https://psa.gov.ph/classification/psgc/node/1684061390 | Third Quarter 2023 PSGC Updates: Conversion to a New City, Merging of 44 Barangays, Renaming of Five Barangays, Transferring of 10 Barangays, and Correction of the Names of 12 Barangays |
-| 2023-08-15 | https://psa.gov.ph/classification/psgc/node/1684060569 | Second Quarter 2023 PSGC Updates: Correction of the Names of One Municipality and 35 Barangays\ |
-| 2023-04-18 | https://psa.gov.ph/classification/psgc/node/176698 | First Quarter 2023 PSGC Updates: Six New Barangays and Correction of the Names of One Municipality and Four Barangays |
-| 2023-01-25 | https://psa.gov.ph/classification/psgc/node/168704 | Fourth Quarter 2022 PSGC Updates: Conversion to a New City, Merging of 28 Barangays, Renaming of a Barangay, and Correction of the Names of 19 Barangays |
+|  |
