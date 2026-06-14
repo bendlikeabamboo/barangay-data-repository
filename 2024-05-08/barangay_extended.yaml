@@ -17,7 +17,7 @@ components:
     nicknames: null
     components:
     - name: City of Lamitan
-      type: city
+      type: component_city
       psgc_id: '1900702000'
       parent_psgc_id: '1900700000'
       nicknames: null
@@ -4211,7 +4211,7 @@ components:
         nicknames: null
         components: []
     - name: City of Marawi
-      type: city
+      type: component_city
       psgc_id: '1903617000'
       parent_psgc_id: '1903600000'
       nicknames: null
@@ -12641,7 +12641,7 @@ components:
         nicknames: null
         components: []
     - name: City of Cotabato
-      type: city
+      type: independent_component_city
       psgc_id: '1908703000'
       parent_psgc_id: '1908700000'
       nicknames: null
@@ -20909,7 +20909,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tabuk
-      type: city
+      type: component_city
       psgc_id: '1403213000'
       parent_psgc_id: '1403200000'
       nicknames: null
@@ -23177,7 +23177,7 @@ components:
         nicknames: null
         components: []
   - name: City of Baguio
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1430300000'
     parent_psgc_id: '1400000000'
     nicknames: null
@@ -26945,7 +26945,7 @@ components:
         nicknames: null
         components: []
     - name: City of Calapan
-      type: city
+      type: component_city
       psgc_id: '1705205000'
       parent_psgc_id: '1705200000'
       nicknames: null
@@ -32789,7 +32789,7 @@ components:
         nicknames: null
         components: []
   - name: City of Puerto Princesa
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1731500000'
     parent_psgc_id: '1700000000'
     nicknames: null
@@ -33197,7 +33197,7 @@ components:
   nicknames: null
   components:
   - name: City of Caloocan
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1380100000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -34331,7 +34331,7 @@ components:
       nicknames: null
       components: []
   - name: "City of Las Pi\xF1as"
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1380200000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -34457,7 +34457,7 @@ components:
       nicknames: null
       components: []
   - name: City of Makati
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1380300000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -34601,7 +34601,7 @@ components:
       nicknames: null
       components: []
   - name: City of Malabon
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1380400000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -34733,7 +34733,7 @@ components:
       nicknames: null
       components: []
   - name: City of Mandaluyong
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1380500000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -34901,7 +34901,7 @@ components:
       nicknames: null
       components: []
   - name: City of Manila
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1380600000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -40373,7 +40373,7 @@ components:
         nicknames: null
         components: []
   - name: City of Marikina
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1380700000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -40475,7 +40475,7 @@ components:
       nicknames: null
       components: []
   - name: City of Muntinlupa
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1380800000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -40535,7 +40535,7 @@ components:
       nicknames: null
       components: []
   - name: City of Navotas
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1380900000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -40649,7 +40649,7 @@ components:
       nicknames: null
       components: []
   - name: "City of Para\xF1aque"
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1381000000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -40751,7 +40751,7 @@ components:
       nicknames: null
       components: []
   - name: Pasay City
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1381100000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -41963,7 +41963,7 @@ components:
       nicknames: null
       components: []
   - name: City of Pasig
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1381200000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -42149,7 +42149,7 @@ components:
       nicknames: null
       components: []
   - name: Quezon City
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1381300000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -43007,7 +43007,7 @@ components:
       nicknames: null
       components: []
   - name: City of San Juan
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1381400000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -43139,7 +43139,7 @@ components:
       nicknames: null
       components: []
   - name: City of Taguig
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1381500000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -43373,7 +43373,7 @@ components:
       nicknames: null
       components: []
   - name: City of Valenzuela
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1381600000'
     parent_psgc_id: '1300000000'
     nicknames: null
@@ -44213,7 +44213,7 @@ components:
         nicknames: null
         components: []
     - name: City of Batac
-      type: city
+      type: component_city
       psgc_id: 0102805000
       parent_psgc_id: 0102800000
       nicknames: null
@@ -45065,7 +45065,7 @@ components:
         nicknames: null
         components: []
     - name: City of Laoag
-      type: city
+      type: component_city
       psgc_id: 0102812000
       parent_psgc_id: 0102800000
       nicknames: null
@@ -47879,7 +47879,7 @@ components:
         nicknames: null
         components: []
     - name: City of Candon
-      type: city
+      type: component_city
       psgc_id: 0102906000
       parent_psgc_id: 0102900000
       nicknames: null
@@ -51725,7 +51725,7 @@ components:
         nicknames: null
         components: []
     - name: City of Vigan
-      type: city
+      type: component_city
       psgc_id: 0102934000
       parent_psgc_id: 0102900000
       nicknames: null
@@ -54395,7 +54395,7 @@ components:
         nicknames: null
         components: []
     - name: City of San Fernando
-      type: city
+      type: component_city
       psgc_id: '0103314000'
       parent_psgc_id: '0103300000'
       nicknames: null
@@ -55763,7 +55763,7 @@ components:
         nicknames: null
         components: []
     - name: City of Alaminos
-      type: city
+      type: component_city
       psgc_id: '0105503000'
       parent_psgc_id: '0105500000'
       nicknames: null
@@ -58271,7 +58271,7 @@ components:
         nicknames: null
         components: []
     - name: City of Dagupan
-      type: city
+      type: independent_component_city
       psgc_id: 0105518000
       parent_psgc_id: '0105500000'
       nicknames: null
@@ -60965,7 +60965,7 @@ components:
         nicknames: null
         components: []
     - name: City of San Carlos
-      type: city
+      type: component_city
       psgc_id: '0105532000'
       parent_psgc_id: '0105500000'
       nicknames: null
@@ -63545,7 +63545,7 @@ components:
         nicknames: null
         components: []
     - name: City of Urdaneta
-      type: city
+      type: component_city
       psgc_id: '0105546000'
       parent_psgc_id: '0105500000'
       nicknames: null
@@ -69047,7 +69047,7 @@ components:
         nicknames: null
         components: []
     - name: Tuguegarao City
-      type: city
+      type: component_city
       psgc_id: 0201529000
       parent_psgc_id: '0201500000'
       nicknames: null
@@ -70697,7 +70697,7 @@ components:
         nicknames: null
         components: []
     - name: City of Cauayan
-      type: city
+      type: component_city
       psgc_id: 0203108000
       parent_psgc_id: '0203100000'
       nicknames: null
@@ -71867,7 +71867,7 @@ components:
         nicknames: null
         components: []
     - name: City of Ilagan
-      type: city
+      type: component_city
       psgc_id: '0203114000'
       parent_psgc_id: '0203100000'
       nicknames: null
@@ -75227,7 +75227,7 @@ components:
         nicknames: null
         components: []
     - name: City of Santiago
-      type: city
+      type: independent_component_city
       psgc_id: '0203135000'
       parent_psgc_id: '0203100000'
       nicknames: null
@@ -78647,7 +78647,7 @@ components:
         nicknames: null
         components: []
     - name: City of Balanga
-      type: city
+      type: component_city
       psgc_id: 0300803000
       parent_psgc_id: 0300800000
       nicknames: null
@@ -80159,7 +80159,7 @@ components:
         nicknames: null
         components: []
     - name: City of Baliwag
-      type: city
+      type: component_city
       psgc_id: '0301403000'
       parent_psgc_id: '0301400000'
       nicknames: null
@@ -81059,7 +81059,7 @@ components:
         nicknames: null
         components: []
     - name: City of Malolos
-      type: city
+      type: component_city
       psgc_id: '0301410000'
       parent_psgc_id: '0301400000'
       nicknames: null
@@ -81473,7 +81473,7 @@ components:
         nicknames: null
         components: []
     - name: City of Meycauayan
-      type: city
+      type: component_city
       psgc_id: '0301412000'
       parent_psgc_id: '0301400000'
       nicknames: null
@@ -82481,7 +82481,7 @@ components:
         nicknames: null
         components: []
     - name: City of San Jose Del Monte
-      type: city
+      type: component_city
       psgc_id: '0301420000'
       parent_psgc_id: '0301400000'
       nicknames: null
@@ -83915,7 +83915,7 @@ components:
         nicknames: null
         components: []
     - name: City of Cabanatuan
-      type: city
+      type: component_city
       psgc_id: 0304903000
       parent_psgc_id: 0304900000
       nicknames: null
@@ -85121,7 +85121,7 @@ components:
         nicknames: null
         components: []
     - name: City of Gapan
-      type: city
+      type: component_city
       psgc_id: 0304908000
       parent_psgc_id: 0304900000
       nicknames: null
@@ -86501,7 +86501,7 @@ components:
         nicknames: null
         components: []
     - name: "Science City of Mu\xF1oz"
-      type: city
+      type: component_city
       psgc_id: 0304917000
       parent_psgc_id: 0304900000
       nicknames: null
@@ -86861,7 +86861,7 @@ components:
         nicknames: null
         components: []
     - name: City of Palayan
-      type: city
+      type: component_city
       psgc_id: 0304919000
       parent_psgc_id: 0304900000
       nicknames: null
@@ -87563,7 +87563,7 @@ components:
         nicknames: null
         components: []
     - name: San Jose City
-      type: city
+      type: component_city
       psgc_id: 0304926000
       parent_psgc_id: 0304900000
       nicknames: null
@@ -90137,7 +90137,7 @@ components:
         nicknames: null
         components: []
     - name: Mabalacat City
-      type: city
+      type: component_city
       psgc_id: 0305409000
       parent_psgc_id: '0305400000'
       nicknames: null
@@ -91331,7 +91331,7 @@ components:
         nicknames: null
         components: []
     - name: City of San Fernando
-      type: city
+      type: component_city
       psgc_id: '0305416000'
       parent_psgc_id: '0305400000'
       nicknames: null
@@ -94499,7 +94499,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tarlac
-      type: city
+      type: component_city
       psgc_id: 0306916000
       parent_psgc_id: 0306900000
       nicknames: null
@@ -97631,7 +97631,7 @@ components:
         nicknames: null
         components: []
   - name: City of Angeles
-    type: city
+    type: highly_urbanized_city
     psgc_id: '0330100000'
     parent_psgc_id: '0300000000'
     nicknames: null
@@ -97835,7 +97835,7 @@ components:
       nicknames: null
       components: []
   - name: City of Olongapo
-    type: city
+    type: highly_urbanized_city
     psgc_id: '0331400000'
     parent_psgc_id: '0300000000'
     nicknames: null
@@ -98585,7 +98585,7 @@ components:
         nicknames: null
         components: []
     - name: Batangas City
-      type: city
+      type: component_city
       psgc_id: '0401005000'
       parent_psgc_id: '0401000000'
       nicknames: null
@@ -99467,7 +99467,7 @@ components:
         nicknames: null
         components: []
     - name: City of Calaca
-      type: city
+      type: component_city
       psgc_id: '0401007000'
       parent_psgc_id: '0401000000'
       nicknames: null
@@ -100697,7 +100697,7 @@ components:
         nicknames: null
         components: []
     - name: City of Lipa
-      type: city
+      type: component_city
       psgc_id: '0401014000'
       parent_psgc_id: '0401000000'
       nicknames: null
@@ -103397,7 +103397,7 @@ components:
         nicknames: null
         components: []
     - name: City of Sto. Tomas
-      type: city
+      type: component_city
       psgc_id: 0401028000
       parent_psgc_id: '0401000000'
       nicknames: null
@@ -103973,7 +103973,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tanauan
-      type: city
+      type: component_city
       psgc_id: '0401031000'
       parent_psgc_id: '0401000000'
       nicknames: null
@@ -104993,7 +104993,7 @@ components:
         nicknames: null
         components: []
     - name: City of Bacoor
-      type: city
+      type: component_city
       psgc_id: '0402103000'
       parent_psgc_id: '0402100000'
       nicknames: null
@@ -105281,7 +105281,7 @@ components:
         nicknames: null
         components: []
     - name: City of Carmona
-      type: city
+      type: component_city
       psgc_id: '0402104000'
       parent_psgc_id: '0402100000'
       nicknames: null
@@ -105371,7 +105371,7 @@ components:
         nicknames: null
         components: []
     - name: City of Cavite
-      type: city
+      type: component_city
       psgc_id: '0402105000'
       parent_psgc_id: '0402100000'
       nicknames: null
@@ -105881,7 +105881,7 @@ components:
         nicknames: null
         components: []
     - name: "City of Dasmari\xF1as"
-      type: city
+      type: component_city
       psgc_id: '0402106000'
       parent_psgc_id: '0402100000'
       nicknames: null
@@ -106427,7 +106427,7 @@ components:
         nicknames: null
         components: []
     - name: City of General Trias
-      type: city
+      type: component_city
       psgc_id: 0402108000
       parent_psgc_id: '0402100000'
       nicknames: null
@@ -106631,7 +106631,7 @@ components:
         nicknames: null
         components: []
     - name: City of Imus
-      type: city
+      type: component_city
       psgc_id: 0402109000
       parent_psgc_id: '0402100000'
       nicknames: null
@@ -108809,7 +108809,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tagaytay
-      type: city
+      type: component_city
       psgc_id: 0402119000
       parent_psgc_id: '0402100000'
       nicknames: null
@@ -109337,7 +109337,7 @@ components:
         nicknames: null
         components: []
     - name: City of Trece Martires
-      type: city
+      type: component_city
       psgc_id: '0402122000'
       parent_psgc_id: '0402100000'
       nicknames: null
@@ -109787,7 +109787,7 @@ components:
         nicknames: null
         components: []
     - name: "City of Bi\xF1an"
-      type: city
+      type: component_city
       psgc_id: '0403403000'
       parent_psgc_id: '0403400000'
       nicknames: null
@@ -109937,7 +109937,7 @@ components:
         nicknames: null
         components: []
     - name: City of Cabuyao
-      type: city
+      type: component_city
       psgc_id: '0403404000'
       parent_psgc_id: '0403400000'
       nicknames: null
@@ -110051,7 +110051,7 @@ components:
         nicknames: null
         components: []
     - name: City of Calamba
-      type: city
+      type: component_city
       psgc_id: '0403405000'
       parent_psgc_id: '0403400000'
       nicknames: null
@@ -112589,7 +112589,7 @@ components:
         nicknames: null
         components: []
     - name: City of San Pablo
-      type: city
+      type: component_city
       psgc_id: '0403424000'
       parent_psgc_id: '0403400000'
       nicknames: null
@@ -113075,7 +113075,7 @@ components:
         nicknames: null
         components: []
     - name: City of San Pedro
-      type: city
+      type: component_city
       psgc_id: '0403425000'
       parent_psgc_id: '0403400000'
       nicknames: null
@@ -113561,7 +113561,7 @@ components:
         nicknames: null
         components: []
     - name: City of Santa Rosa
-      type: city
+      type: component_city
       psgc_id: 0403428000
       parent_psgc_id: '0403400000'
       nicknames: null
@@ -120545,7 +120545,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tayabas
-      type: city
+      type: component_city
       psgc_id: '0405647000'
       parent_psgc_id: '0405600000'
       nicknames: null
@@ -121433,7 +121433,7 @@ components:
         nicknames: null
         components: []
     - name: City of Antipolo
-      type: city
+      type: component_city
       psgc_id: 0405802000
       parent_psgc_id: 0405800000
       nicknames: null
@@ -122585,7 +122585,7 @@ components:
         nicknames: null
         components: []
   - name: City of Lucena
-    type: city
+    type: highly_urbanized_city
     psgc_id: '0431200000'
     parent_psgc_id: '0400000000'
     nicknames: null
@@ -122801,7 +122801,7 @@ components:
     nicknames: null
     components:
     - name: City of Dapitan
-      type: city
+      type: component_city
       psgc_id: 0907201000
       parent_psgc_id: 0907200000
       nicknames: null
@@ -123107,7 +123107,7 @@ components:
         nicknames: null
         components: []
     - name: City of Dipolog
-      type: city
+      type: component_city
       psgc_id: 0907202000
       parent_psgc_id: 0907200000
       nicknames: null
@@ -129431,7 +129431,7 @@ components:
         nicknames: null
         components: []
     - name: City of Pagadian
-      type: city
+      type: component_city
       psgc_id: 0907322000
       parent_psgc_id: 0907300000
       nicknames: null
@@ -133799,13 +133799,13 @@ components:
         nicknames: null
         components: []
   - name: City of Isabela (Not a Province)
-    type: city
+    type: independent_component_city
     psgc_id: 0990100000
     parent_psgc_id: 0900000000
     nicknames: null
     components:
     - name: City of Isabela
-      type: city
+      type: component_city
       psgc_id: 0990101000
       parent_psgc_id: 0990100000
       nicknames: null
@@ -134081,7 +134081,7 @@ components:
         nicknames: null
         components: []
   - name: City of Zamboanga
-    type: city
+    type: highly_urbanized_city
     psgc_id: 0931700000
     parent_psgc_id: 0900000000
     nicknames: null
@@ -136079,7 +136079,7 @@ components:
         nicknames: null
         components: []
     - name: City of Legazpi
-      type: city
+      type: component_city
       psgc_id: '0500506000'
       parent_psgc_id: '0500500000'
       nicknames: null
@@ -136793,7 +136793,7 @@ components:
         nicknames: null
         components: []
     - name: City of Ligao
-      type: city
+      type: component_city
       psgc_id: 0500508000
       parent_psgc_id: '0500500000'
       nicknames: null
@@ -138671,7 +138671,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tabaco
-      type: city
+      type: component_city
       psgc_id: '0500517000'
       parent_psgc_id: '0500500000'
       nicknames: null
@@ -143375,7 +143375,7 @@ components:
         nicknames: null
         components: []
     - name: City of Iriga
-      type: city
+      type: component_city
       psgc_id: '0501716000'
       parent_psgc_id: '0501700000'
       nicknames: null
@@ -145157,7 +145157,7 @@ components:
         nicknames: null
         components: []
     - name: City of Naga
-      type: city
+      type: independent_component_city
       psgc_id: '0501724000'
       parent_psgc_id: '0501700000'
       nicknames: null
@@ -151151,7 +151151,7 @@ components:
         nicknames: null
         components: []
     - name: City of Masbate
-      type: city
+      type: component_city
       psgc_id: '0504111000'
       parent_psgc_id: '0504100000'
       nicknames: null
@@ -155837,7 +155837,7 @@ components:
         nicknames: null
         components: []
     - name: City of Sorsogon
-      type: city
+      type: component_city
       psgc_id: '0506216000'
       parent_psgc_id: '0506200000'
       nicknames: null
@@ -164063,7 +164063,7 @@ components:
         nicknames: null
         components: []
     - name: City of Roxas
-      type: city
+      type: component_city
       psgc_id: 0601914000
       parent_psgc_id: 0601900000
       nicknames: null
@@ -172295,7 +172295,7 @@ components:
         nicknames: null
         components: []
     - name: City of Passi
-      type: city
+      type: component_city
       psgc_id: '0603035000'
       parent_psgc_id: '0603000000'
       nicknames: null
@@ -175499,7 +175499,7 @@ components:
     nicknames: null
     components:
     - name: City of Bago
-      type: city
+      type: component_city
       psgc_id: '0604502000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -175751,7 +175751,7 @@ components:
         nicknames: null
         components: []
     - name: City of Cadiz
-      type: city
+      type: component_city
       psgc_id: '0604504000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -176495,7 +176495,7 @@ components:
         nicknames: null
         components: []
     - name: City of Escalante
-      type: city
+      type: component_city
       psgc_id: 0604509000
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -176627,7 +176627,7 @@ components:
         nicknames: null
         components: []
     - name: City of Himamaylan
-      type: city
+      type: component_city
       psgc_id: '0604510000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -177263,7 +177263,7 @@ components:
         nicknames: null
         components: []
     - name: City of Kabankalan
-      type: city
+      type: component_city
       psgc_id: '0604515000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -177461,7 +177461,7 @@ components:
         nicknames: null
         components: []
     - name: City of La Carlota
-      type: city
+      type: component_city
       psgc_id: '0604516000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -178205,7 +178205,7 @@ components:
         nicknames: null
         components: []
     - name: City of Sagay
-      type: city
+      type: component_city
       psgc_id: '0604523000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -178361,7 +178361,7 @@ components:
         nicknames: null
         components: []
     - name: City of San Carlos
-      type: city
+      type: component_city
       psgc_id: '0604524000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -178541,7 +178541,7 @@ components:
         nicknames: null
         components: []
     - name: City of Silay
-      type: city
+      type: component_city
       psgc_id: '0604526000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -178643,7 +178643,7 @@ components:
         nicknames: null
         components: []
     - name: City of Sipalay
-      type: city
+      type: component_city
       psgc_id: '0604527000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -178751,7 +178751,7 @@ components:
         nicknames: null
         components: []
     - name: City of Talisay
-      type: city
+      type: component_city
       psgc_id: 0604528000
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -179081,7 +179081,7 @@ components:
         nicknames: null
         components: []
     - name: City of Victorias
-      type: city
+      type: component_city
       psgc_id: '0604531000'
       parent_psgc_id: '0604500000'
       nicknames: null
@@ -179915,7 +179915,7 @@ components:
         nicknames: null
         components: []
   - name: City of Bacolod
-    type: city
+    type: highly_urbanized_city
     psgc_id: '0630200000'
     parent_psgc_id: '0600000000'
     nicknames: null
@@ -180287,7 +180287,7 @@ components:
       nicknames: null
       components: []
   - name: City of Iloilo
-    type: city
+    type: highly_urbanized_city
     psgc_id: '0631000000'
     parent_psgc_id: '0600000000'
     nicknames: null
@@ -187157,7 +187157,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tagbilaran
-      type: city
+      type: component_city
       psgc_id: '0701242000'
       parent_psgc_id: '0701200000'
       nicknames: null
@@ -189815,7 +189815,7 @@ components:
         nicknames: null
         components: []
     - name: City of Bogo
-      type: city
+      type: component_city
       psgc_id: '0702211000'
       parent_psgc_id: '0702200000'
       nicknames: null
@@ -190187,7 +190187,7 @@ components:
         nicknames: null
         components: []
     - name: City of Carcar
-      type: city
+      type: component_city
       psgc_id: '0702214000'
       parent_psgc_id: '0702200000'
       nicknames: null
@@ -191195,7 +191195,7 @@ components:
         nicknames: null
         components: []
     - name: Danao City
-      type: city
+      type: component_city
       psgc_id: '0702223000'
       parent_psgc_id: '0702200000'
       nicknames: null
@@ -192377,7 +192377,7 @@ components:
         nicknames: null
         components: []
     - name: City of Naga
-      type: city
+      type: component_city
       psgc_id: '0702234000'
       parent_psgc_id: '0702200000'
       nicknames: null
@@ -194255,7 +194255,7 @@ components:
         nicknames: null
         components: []
     - name: City of Talisay
-      type: city
+      type: component_city
       psgc_id: '0702250000'
       parent_psgc_id: '0702200000'
       nicknames: null
@@ -194393,7 +194393,7 @@ components:
         nicknames: null
         components: []
     - name: City of Toledo
-      type: city
+      type: component_city
       psgc_id: '0702251000'
       parent_psgc_id: '0702200000'
       nicknames: null
@@ -195377,7 +195377,7 @@ components:
         nicknames: null
         components: []
     - name: City of Bais
-      type: city
+      type: component_city
       psgc_id: '0704604000'
       parent_psgc_id: '0704600000'
       nicknames: null
@@ -195659,7 +195659,7 @@ components:
         nicknames: null
         components: []
     - name: City of Bayawan
-      type: city
+      type: component_city
       psgc_id: '0704606000'
       parent_psgc_id: '0704600000'
       nicknames: null
@@ -195971,7 +195971,7 @@ components:
         nicknames: null
         components: []
     - name: City of Canlaon
-      type: city
+      type: component_city
       psgc_id: 0704608000
       parent_psgc_id: '0704600000'
       nicknames: null
@@ -196193,7 +196193,7 @@ components:
         nicknames: null
         components: []
     - name: City of Dumaguete
-      type: city
+      type: component_city
       psgc_id: '0704610000'
       parent_psgc_id: '0704600000'
       nicknames: null
@@ -196379,7 +196379,7 @@ components:
         nicknames: null
         components: []
     - name: City of Guihulngan
-      type: city
+      type: component_city
       psgc_id: '0704611000'
       parent_psgc_id: '0704600000'
       nicknames: null
@@ -197891,7 +197891,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tanjay
-      type: city
+      type: component_city
       psgc_id: '0704621000'
       parent_psgc_id: '0704600000'
       nicknames: null
@@ -199373,7 +199373,7 @@ components:
         nicknames: null
         components: []
   - name: City of Cebu
-    type: city
+    type: highly_urbanized_city
     psgc_id: '0730600000'
     parent_psgc_id: '0700000000'
     nicknames: null
@@ -199859,7 +199859,7 @@ components:
       nicknames: null
       components: []
   - name: City of Lapu-Lapu
-    type: city
+    type: highly_urbanized_city
     psgc_id: '0731100000'
     parent_psgc_id: '0700000000'
     nicknames: null
@@ -200045,7 +200045,7 @@ components:
       nicknames: null
       components: []
   - name: City of Mandaue
-    type: city
+    type: highly_urbanized_city
     psgc_id: '0731300000'
     parent_psgc_id: '0700000000'
     nicknames: null
@@ -200531,7 +200531,7 @@ components:
         nicknames: null
         components: []
     - name: City of Borongan
-      type: city
+      type: component_city
       psgc_id: 0802604000
       parent_psgc_id: 0802600000
       nicknames: null
@@ -205349,7 +205349,7 @@ components:
         nicknames: null
         components: []
     - name: City of Baybay
-      type: city
+      type: component_city
       psgc_id: 0803708000
       parent_psgc_id: 0803700000
       nicknames: null
@@ -210605,7 +210605,7 @@ components:
         nicknames: null
         components: []
     - name: Ormoc City
-      type: city
+      type: independent_component_city
       psgc_id: 0803738000
       parent_psgc_id: 0803700000
       nicknames: null
@@ -217097,7 +217097,7 @@ components:
         nicknames: null
         components: []
     - name: City of Calbayog
-      type: city
+      type: component_city
       psgc_id: 0806003000
       parent_psgc_id: 0806000000
       nicknames: null
@@ -218297,7 +218297,7 @@ components:
         nicknames: null
         components: []
     - name: City of Catbalogan
-      type: city
+      type: component_city
       psgc_id: 0806005000
       parent_psgc_id: 0806000000
       nicknames: null
@@ -223439,7 +223439,7 @@ components:
         nicknames: null
         components: []
     - name: City of Maasin
-      type: city
+      type: component_city
       psgc_id: 0806407000
       parent_psgc_id: 0806400000
       nicknames: null
@@ -226469,7 +226469,7 @@ components:
         nicknames: null
         components: []
   - name: City of Tacloban
-    type: city
+    type: highly_urbanized_city
     psgc_id: 0831600000
     parent_psgc_id: 0800000000
     nicknames: null
@@ -228617,7 +228617,7 @@ components:
         nicknames: null
         components: []
     - name: City of Malaybalay
-      type: city
+      type: component_city
       psgc_id: '1001312000'
       parent_psgc_id: '1001300000'
       nicknames: null
@@ -229943,7 +229943,7 @@ components:
         nicknames: null
         components: []
     - name: City of Valencia
-      type: city
+      type: component_city
       psgc_id: '1001321000'
       parent_psgc_id: '1001300000'
       nicknames: null
@@ -234773,7 +234773,7 @@ components:
         nicknames: null
         components: []
     - name: City of Oroquieta
-      type: city
+      type: component_city
       psgc_id: '1004209000'
       parent_psgc_id: '1004200000'
       nicknames: null
@@ -235061,7 +235061,7 @@ components:
         nicknames: null
         components: []
     - name: City of Ozamiz
-      type: city
+      type: component_city
       psgc_id: '1004210000'
       parent_psgc_id: '1004200000'
       nicknames: null
@@ -235961,7 +235961,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tangub
-      type: city
+      type: component_city
       psgc_id: '1004215000'
       parent_psgc_id: '1004200000'
       nicknames: null
@@ -237131,7 +237131,7 @@ components:
         nicknames: null
         components: []
     - name: City of El Salvador
-      type: city
+      type: component_city
       psgc_id: '1004307000'
       parent_psgc_id: '1004300000'
       nicknames: null
@@ -237227,7 +237227,7 @@ components:
         nicknames: null
         components: []
     - name: City of Gingoog
-      type: city
+      type: component_city
       psgc_id: '1004308000'
       parent_psgc_id: '1004300000'
       nicknames: null
@@ -239273,7 +239273,7 @@ components:
         nicknames: null
         components: []
   - name: City of Cagayan De Oro
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1030500000'
     parent_psgc_id: '1000000000'
     nicknames: null
@@ -239759,7 +239759,7 @@ components:
       nicknames: null
       components: []
   - name: City of Iligan
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1030900000'
     parent_psgc_id: '1000000000'
     nicknames: null
@@ -240509,7 +240509,7 @@ components:
         nicknames: null
         components: []
     - name: City of Panabo
-      type: city
+      type: component_city
       psgc_id: '1102315000'
       parent_psgc_id: '1102300000'
       nicknames: null
@@ -240755,7 +240755,7 @@ components:
         nicknames: null
         components: []
     - name: Island Garden City of Samal
-      type: city
+      type: component_city
       psgc_id: '1102317000'
       parent_psgc_id: '1102300000'
       nicknames: null
@@ -241157,7 +241157,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tagum
-      type: city
+      type: component_city
       psgc_id: '1102319000'
       parent_psgc_id: '1102300000'
       nicknames: null
@@ -241607,7 +241607,7 @@ components:
         nicknames: null
         components: []
     - name: City of Digos
-      type: city
+      type: component_city
       psgc_id: '1102403000'
       parent_psgc_id: '1102400000'
       nicknames: null
@@ -243743,7 +243743,7 @@ components:
         nicknames: null
         components: []
     - name: City of Mati
-      type: city
+      type: component_city
       psgc_id: '1102509000'
       parent_psgc_id: '1102500000'
       nicknames: null
@@ -246233,7 +246233,7 @@ components:
         nicknames: null
         components: []
   - name: City of Davao
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1130700000'
     parent_psgc_id: '1100000000'
     nicknames: null
@@ -247691,7 +247691,7 @@ components:
         nicknames: null
         components: []
     - name: City of Kidapawan
-      type: city
+      type: component_city
       psgc_id: '1204704000'
       parent_psgc_id: '1204700000'
       nicknames: null
@@ -250475,7 +250475,7 @@ components:
         nicknames: null
         components: []
     - name: City of Koronadal
-      type: city
+      type: component_city
       psgc_id: '1206306000'
       parent_psgc_id: '1206300000'
       nicknames: null
@@ -252917,7 +252917,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tacurong
-      type: city
+      type: component_city
       psgc_id: '1206511000'
       parent_psgc_id: '1206500000'
       nicknames: null
@@ -254069,7 +254069,7 @@ components:
         nicknames: null
         components: []
   - name: City of General Santos
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1230800000'
     parent_psgc_id: '1200000000'
     nicknames: null
@@ -254399,7 +254399,7 @@ components:
         nicknames: null
         components: []
     - name: City of Cabadbaran
-      type: city
+      type: component_city
       psgc_id: '1600203000'
       parent_psgc_id: '1600200000'
       nicknames: null
@@ -255317,7 +255317,7 @@ components:
     nicknames: null
     components:
     - name: City of Bayugan
-      type: city
+      type: component_city
       psgc_id: '1600301000'
       parent_psgc_id: '1600300000'
       nicknames: null
@@ -258947,7 +258947,7 @@ components:
         nicknames: null
         components: []
     - name: City of Surigao
-      type: city
+      type: component_city
       psgc_id: '1606724000'
       parent_psgc_id: '1606700000'
       nicknames: null
@@ -259613,7 +259613,7 @@ components:
         nicknames: null
         components: []
     - name: City of Bislig
-      type: city
+      type: component_city
       psgc_id: '1606803000'
       parent_psgc_id: '1606800000'
       nicknames: null
@@ -261269,7 +261269,7 @@ components:
         nicknames: null
         components: []
     - name: City of Tandag
-      type: city
+      type: component_city
       psgc_id: '1606819000'
       parent_psgc_id: '1606800000'
       nicknames: null
@@ -262049,7 +262049,7 @@ components:
         nicknames: null
         components: []
   - name: City of Butuan
-    type: city
+    type: highly_urbanized_city
     psgc_id: '1630400000'
     parent_psgc_id: '1600000000'
     nicknames: null
